@@ -2,7 +2,7 @@
 
 ### - Avoir une application fonctionnelle sur le port de votre choix et le montrer à votre formatteur
 
-![Schema comparatif](/screenshot-create-image-docker.png "Schéma comparatif")
+![Schema comparatif](./images/screenshot-create-image-docker.png "Schéma comparatif")
 
 **URL DU GIT :** https://github.com/MAZEL-Florian/docker-create-image
 
@@ -37,11 +37,11 @@ services:
 
 ### - Avoir une image la plus légère possible. A titre indicatif, celle de votre formateur fait 44.1MB.
 
-![Screenshot low image](/screenshot-low-image.png "screenshot low image")
+![Screenshot low image](./images/screenshot-low-image.png "screenshot low image")
 
-![Screenshot running image](/screenshot-running.png "screenshot running image")
+![Screenshot running image](./images/screenshot-running.png "screenshot running image")
 
-![Screenshot render image](/screenshot-rendering-optimize.png "screenshot render image")
+![Screenshot render image](./images/screenshot-rendering-optimize.png "screenshot render image")
 
 **Etapes pour optimiser cette image :**
 
@@ -77,7 +77,7 @@ https://github.com/MAZEL-Florian/docker-optimize-image.git
 
 ### Stack multi-service
 
-![Screenshot wordpress image](/screenshot-wordpress.png "screenshot wordpress image")
+![Screenshot wordpress image](./images/screenshot-wordpress.png "screenshot wordpress image")
 
 
 ### - Comment configurez-vous les variables d’environnement?

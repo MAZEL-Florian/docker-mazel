@@ -46,7 +46,7 @@ Concrètement, les conteneurs sont généralement préférés pour des déploiem
 
 ### - Un screen prouvant que votre application fonctionne
 
-![Schema comparatif](/screenshot-nginx.png "Schéma comparatif")
+![Schema comparatif](./images/screenshot-nginx.png "Schéma comparatif")
 
 
 ### - Un recapitulatif des lignes de commandes utilisées   
@@ -88,8 +88,8 @@ Les modes de réseaux les plus utilisés sont :
 
 ### - La liste des réseaux docker sur votre machine 
 
-![Schema comparatif](/screenshot-network.png "Schéma comparatif")
+![Schema comparatif](./images/screenshot-network.png "Schéma comparatif")
 
 ### - A quel réseau appartient ce conteneur
 
-![Schema comparatif](/screenshot-network-conteneur.png "Schéma comparatif")
+![Schema comparatif](./images/screenshot-network-conteneur.png "Schéma comparatif")
